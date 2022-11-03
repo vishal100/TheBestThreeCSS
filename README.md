@@ -2,4 +2,4 @@
  
 The Best Three -
 
-The Greates of all Time of Football published with the use of HTML & CSS.
+The Greatest in the World of Football published with the use of HTML & CSS.
